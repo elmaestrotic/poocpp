@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Asus/CLionProjects/pooc++/cmake-build-debug/AutoMovil.h
+string
+-
+
+C:/Users/Asus/CLionProjects/pooc++/cmake-build-debug/main.cpp
+iostream
+-
+AutoMovil.h
+C:/Users/Asus/CLionProjects/pooc++/cmake-build-debug/AutoMovil.h
+
